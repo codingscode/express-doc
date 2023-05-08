@@ -24,11 +24,18 @@ acessar:
          Acessando a seção segredo...
 
 
+acessar:
+   http://localhost:3000/random.text
+   ver
 
 
-
-
-
+acessar: metodo get
+   http://localhost:3000/users/:userId/books/:bookId
+   aparece
+   {
+       "userId": ":userId",
+       "bookId": ":bookId"
+   }
 
 
 

@@ -17,21 +17,23 @@ app.post('/', (req, res) => {
     console.log(valor_post)
 })
 
-// App listening on the below port
-app.listen(3000, function(err){
-    if (err) console.log(err)
-    console.log('Servidor escutando na porta', 3000)
-})
-
-
 app.all('/segredo', (req, res, next) => {
     console.log('Acessando a seção segredo...')
     next() // pass control to the next handler
 })
 
+app.get('/random.text', (req, res) => {
+    res.send('random.text')
+})
+
+app.get('/users/:userId/books/:bookId', (req, res) => {
+    res.send(req.params)
+})
 
 
-
-
-
+// App listening on the below port
+app.listen(3000, function(err){
+    if (err) console.log(err)
+    console.log('Servidor escutando na porta', 3000)
+})
 
