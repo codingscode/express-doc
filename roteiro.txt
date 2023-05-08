@@ -18,6 +18,10 @@ usando o método post (idem)
       { propriedade: 'algo' }
 
 
+acessar:
+   http://localhost:3000/segredo
+      imprime:
+         Acessando a seção segredo...
 
 
 
