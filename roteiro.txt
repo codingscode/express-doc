@@ -6,13 +6,16 @@ no terminal:
    npm i nodemon
 
 
-usando o método post
+usando o método post (idem)
    no body colocar:
       {
          "propriedade": "algo"
       }
    a resposta é:
    POST request to the homepage
+   
+   imprime:
+      { propriedade: 'algo' }
 
 
 
