@@ -5,8 +5,13 @@ no terminal:
    npm i express
 
 
-
-
+usando o método post
+   no body colocar:
+      {
+         "propriedade": "algo"
+      }
+   a resposta é:
+   POST request to the homepage
 
 
 
