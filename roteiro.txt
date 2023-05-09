@@ -59,9 +59,9 @@ usando método get em:
    e ver o console.log
 
 
+-------------------------------------------
 
-
-
+ver http://localhost:3000/
 
 
 
