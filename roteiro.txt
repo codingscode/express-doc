@@ -64,7 +64,9 @@ usando método get em:
 ver http://localhost:3000/
 
 
-
+ver http://localhost:3000/admin
+    http://localhost:3000 -> não funciona
+    ver console.log
 
 
 
