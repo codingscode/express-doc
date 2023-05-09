@@ -53,6 +53,10 @@ idem
 usar o método get, post e put em: http://localhost:3000/livro
    e ver suas respectivas respostas
 
+usando método get em: 
+   http://localhost:3000/passaros
+   http://localhost:3000/passaros/sobre
+   e ver o console.log
 
 
 
