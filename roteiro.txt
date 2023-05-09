@@ -43,6 +43,17 @@ usando método get em: http://localhost:3000/exemplo/b
    e no console.log aparece:
    a resposta será enviada pela pŕoxima função...
 
+usando método get em: http://localhost:3000/exemplo/c
+   no body de baixo aparece:
+      Olá de C!
+   ver o console.log
+
+
+
+
+
+
+
 
 
 
