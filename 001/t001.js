@@ -30,6 +30,21 @@ app.get('/users/:userId/books/:bookId', (req, res) => {
     res.send(req.params)
 })
 
+app.get('/exemplo/b', (req, res, next) => {
+    console.log('a resposta será enviada pela pŕoxima função...')
+    next()
+  }, 
+  (req, res) => {
+    res.send('Olá de B!')
+})
+
+
+
+
+
+
+
+
 
 // App listening on the below port
 app.listen(3000, function(err){

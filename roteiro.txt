@@ -37,7 +37,11 @@ acessar: metodo get
        "bookId": ":bookId"
    }
 
-
+usando método get em: http://localhost:3000/exemplo/b
+   no body de baixo aparece:
+      Olá de B!
+   e no console.log aparece:
+   a resposta será enviada pela pŕoxima função...
 
 
 
