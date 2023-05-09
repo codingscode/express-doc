@@ -50,7 +50,8 @@ usando método get em: http://localhost:3000/exemplo/c
 
 idem
 
-
+usar o método get, post e put em: http://localhost:3000/livro
+   e ver suas respectivas respostas
 
 
 
