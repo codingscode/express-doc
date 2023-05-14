@@ -78,6 +78,9 @@ ver
       imprime
          /secr*t
 
+
+ver
+   http://localhost:3000/admin
    
 
 
