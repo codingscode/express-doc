@@ -69,6 +69,45 @@ ver http://localhost:3000/admin
     ver console.log
 
 
+ver
+   http://localhost:3000/admin
+      imprime
+         [ '/adm*n', '/manager' ]
+         [ '/adm*n', '/manager' ]
+   http://localhost:3000/adm*n/secr*t
+      imprime
+         /secr*t
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

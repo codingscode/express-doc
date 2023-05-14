@@ -40,12 +40,6 @@ app.get('/exemplo/b', (req, res, next) => {
 
 
 
-
-
-
-
-
-
 // App listening on the below port
 app.listen(3000, function(err){
     if (err) console.log(err)
