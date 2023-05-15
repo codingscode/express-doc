@@ -81,8 +81,13 @@ ver
 
 ver
    http://localhost:3000/admin
-   
 
+
+acessar http://localhost:3000/user/42
+   no console.log tem
+      chamado somente uma vez
+      embora isto combine
+      e isto combine também
 
 
 
