@@ -89,7 +89,12 @@ acessar http://localhost:3000/user/42
       embora isto combine
       e isto combine também
 
-
+acessar http://localhost:3000/user/42/3 
+   no console.log tem
+      chamado somente uma vez com 42
+      chamado somente uma vez com 3
+      embora isto combine
+      e isto combine também
 
 
 
