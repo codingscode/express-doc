@@ -97,6 +97,10 @@ acessar http://localhost:3000/user/42/3
       e isto combine também
 
 
+em console.log é impresso:
+   ''
+   '/blog'
+   '/blog/admin'
 
 
 
