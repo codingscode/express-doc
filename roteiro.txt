@@ -109,7 +109,8 @@ acessar : http://localhost:3000/usuario/:id
 acessar : http://localhost:3000/verdiretorio
 
 
-
+acessar : http://localhost:3000/greet/jp
+   ver o browser e o terminal
 
 
 
