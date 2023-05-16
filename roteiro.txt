@@ -103,6 +103,8 @@ em console.log é impresso:
    '/blog/admin'
 
 
+acessar : http://localhost:3000/usuario/:id
+   usuario -> :id
 
 
 
