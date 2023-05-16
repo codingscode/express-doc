@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon ./t009.js localhost 3000",
+    "start": "nodemon ./t010.js localhost 3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

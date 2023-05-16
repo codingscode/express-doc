@@ -106,6 +106,7 @@ em console.log é impresso:
 acessar : http://localhost:3000/usuario/:id
    usuario -> :id
 
+acessar : http://localhost:3000/verdiretorio
 
 
 
