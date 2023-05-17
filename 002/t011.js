@@ -9,7 +9,7 @@ app.use(express.json())
 
 var greet = express.Router()
 
-greet.get('/jp', function (req, res) {
+greet.get('/jp', (req, res) => {
   console.log(req.baseUrl) // /greet
   res.send('Konichiwa!')
 })

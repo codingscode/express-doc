@@ -123,7 +123,9 @@ usar o métdo post em : http://localhost:3000/perfil
    ver o body em baixo
    e o console no terminal
 
-
+usar get em : http://localhost:3000/teste/richard
+   no terminal imprime:
+      'richard'
 
 
 
