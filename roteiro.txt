@@ -127,8 +127,10 @@ usar get em : http://localhost:3000/teste/richard
    no terminal imprime:
       'richard'
 
-
-
+usar get em : http://localhost:3000/teste/parte1/parte2/parte3/parte4
+   no terminal imprime:
+      req.params[0]:
+      'parte1/parte2/parte3/parte4'
 
 
 
