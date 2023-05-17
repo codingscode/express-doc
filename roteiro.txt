@@ -113,7 +113,15 @@ acessar : http://localhost:3000/greet/jp
    ver o browser e o terminal
 
 
+usar o métdo post em : http://localhost:3000/perfil
+   no body colocar:
+      {
+         "nome": "vicente",
+         "idade": 4
+      }
 
+   ver o body em baixo
+   e o console no terminal
 
 
 
