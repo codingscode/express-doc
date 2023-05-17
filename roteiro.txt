@@ -132,7 +132,10 @@ usar get em : http://localhost:3000/teste/parte1/parte2/parte3/parte4
       req.params[0]:
       'parte1/parte2/parte3/parte4'
 
-
+usar get em : http://localhost:3000/usuarios?sort=desc
+   no terminal imprime:
+      '/usuarios'
+      'http'
 
 
 
