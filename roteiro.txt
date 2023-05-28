@@ -158,6 +158,7 @@ usar get em : http://localhost:3000/user/algo
       }
 
 
+acessar http://localhost:3000/?name=tobi e ver console.
 
 
 
