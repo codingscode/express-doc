@@ -139,6 +139,57 @@ usar get em : http://localhost:3000/usuarios?sort=desc
 
 
 
+usar get em : http://localhost:3000/user/algo
+   no console aparece:
+      Route {
+        path: '/user/:id?',
+        stack: [
+          Layer {
+            handle: [Function: userIdHandler],
+            name: 'userIdHandler',
+            params: undefined,
+            path: undefined,
+            keys: [],
+            regexp: /^\/?$/i,
+            method: 'get'
+          }
+        ],
+        methods: { get: true }
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
