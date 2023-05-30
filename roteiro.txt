@@ -164,7 +164,7 @@ acessar http://localhost:3000/?name=tobi e ver console.
 acessar http://localhost:3000/viewdirectory e ver a resposta
 
 
-
+acessar http://localhost:3000/greet/jp e ver resposta
 
 
 
