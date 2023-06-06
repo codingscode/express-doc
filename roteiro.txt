@@ -205,7 +205,7 @@ usar metodo get em "http://localhost:3000/usuario/3"
    }
 
 
-
+testar http://localhost:3000/usuario/2
 
 
 
