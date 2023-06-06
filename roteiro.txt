@@ -176,8 +176,11 @@ usar metodo post em http://localhost:3000/perfil
    e o console
 
 
+usar metodo get em "http://localhost:3000/usuario/vicente"
+   ver console:
+      vicente
 
-
+   
 
 
 
