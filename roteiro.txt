@@ -181,6 +181,10 @@ usar metodo get em "http://localhost:3000/usuario/vicente"
       vicente
 
    
+usar metodo get em "http://localhost:3000/usuarios?sort=desc"
+   ver console:
+      /usuarios
+
 
 
 
