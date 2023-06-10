@@ -208,9 +208,11 @@ usar metodo get em "http://localhost:3000/usuario/3"
 testar http://localhost:3000/usuario/2
 
 
+testar http://localhost:3000/caminho
 
+testar http://localhost:3000/usuario/42
 
-
+testar http://localhost:3000
 
 
 
