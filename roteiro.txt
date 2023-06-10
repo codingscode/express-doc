@@ -220,7 +220,11 @@ no console aparece:
    Request Type: GET
 
 
-
+testar http://localhost:3000/usuario/9
+no console aparece:
+   Request URL: /usuario/9
+   Request Type: GET
+   
 
 
 
