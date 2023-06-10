@@ -214,6 +214,10 @@ testar http://localhost:3000/usuario/42
 
 testar http://localhost:3000
 
+testar http://localhost:3000/usuario/9
+no console aparece:
+   Time: 1686359559258
+   Request Type: GET
 
 
 
