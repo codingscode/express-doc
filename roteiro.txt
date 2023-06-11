@@ -226,7 +226,8 @@ no console aparece:
    Request Type: GET
    
 
-
+testar http://localhost:3000/usuario/9
+ver console terminal
 
 
 
