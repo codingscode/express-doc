@@ -231,6 +231,10 @@ ver console terminal
 
 
 
+testar http://localhost:3000/usuario/9
+ver console terminal
+Request URL: /usuario/9
+Request Type: GET
 
 
 
