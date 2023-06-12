@@ -237,6 +237,27 @@ Request URL: /usuario/9
 Request Type: GET
 
 
+https://www.geeksforgeeks.org/express-js-res-render-function/
+npm install ejs
+
+
+imprime
+   Time: 1686527871664
+   Request URL: /usuario/9
+   Request Type: GET
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
